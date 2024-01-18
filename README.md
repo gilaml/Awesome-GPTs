@@ -238,6 +238,10 @@ Exciting news! We've just rolled out our very own GPT creation, aptly named [**A
    -  [Chat now](https://chat.openai.com/g/g-uba2kDdJy-dj-sensei)
    -  Submit by [@0miee](https://github.com/0miee)
 
+11. Interview Pro
+    - Ace your job interview!
+    - To prepare for a job or school interview, go to: https://chat.openai.com/g/g-zzPVK21SG-interview-pro-based-on-11-years-of-experience 
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
